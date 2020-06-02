@@ -82,9 +82,9 @@
             </a>
           </li>
           <li>
-            <a href="./tables.html">
+            <a href="./tables.php">
               <i class="tim-icons icon-puzzle-10"></i>
-              <p>Table List</p>
+              <p>Users</p>
             </a>
           </li>
           <li>
